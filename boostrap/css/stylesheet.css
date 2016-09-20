@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+.text1 {
+	font-size:13px;
+	text-align: center;
+	padding:13px 0 0 0;
+	color:#006633;
+}
+.text2 {
+	font-size:22px;
+	padding:6px 0 0 0;
+	color: #006633;
+}
+.top {
+	margin-top:20px;
+	padding-bottom: 20px;
+}
+.pavan1 {
+	margin-left: 87px;
+	color: red;
+}
+.container-fluid {
+	background:#336699;
+}
+.nav > li > a {
+	padding: 22px 12px;
+	color:white;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	text-decoration: underline;
+	background:none;
+	color: yellow;
+}
+.color {
+	background-color:#336666;
+}
+.pavan3 {
+	float:right;
+}
+.nav> li > a.pad {
+	padding:16px 12px;
+}
+.middle {
+	padding-top:20px;
+}
+.line {
+	FONT-SIZE: 16PX;
+	COLOR: RED;
+	BORDER: 1Px solid #CCCCCE;
+	    padding: 15px 0 14px 0;
+}
+.middletwo {
+	margin:0px;
+	padding:20px 0;
+}
+.name {
+	padding:0 0 0 20px;
+}
+.full {
+	font-size: 15px;
+	color: #003399;
+	padding: 10px 0;
+	border: 1px solid #ccccce;
+	border-left: none;
+}
+.null {
+	color:#ccccce;
+}
+.first {
+	padding-left:12px;
+}
+.table1 {
+	font-size: 18px;
+	color: #333300;
+	padding:0px;
+}
+.table2 {
+	padding: 10px 16px;
+	font-size: 18px;
+	border-radius: 6px;
+	margin-right: 24px;
+	background:#999999;
+}
+.panel-heading {
+	padding:0px;
+}
+.one {
+	
+	padding: 20px;
+	font-size: 15px;
+}
+.panel-body {
+	padding:13px;
+}
+.span-one {
+	float:left;
+	margin-right:14px;
+}
+.span-two {
+	margin-left:26px;
+}
+.icon {
+	margin:0 0 24px;
+}
+.PLACEMENTS {
+	background: #ccffcc;padding:0px;
+}
+.span-3{margin-left:31px;}
+.photo{background:#e5eaf0;padding:0px;margin-top:20px;}
+.figure{    color: #336699;
+    font-size: 16px;
+    margin-left: 13px;margin-top:16px;}
+.buttons{margin-left: 104px;}
+.awards{background:#edebe3;padding:0px;    margin-top: 20px;}
+.smalltext{    color: #336699;
+    border-bottom: 1px solid;}
+	.longtext{    padding-left: 13px;}
+	.mlritm{background:#ffcc33;padding:0px;}
+	.vinayaka{
+    padding: 0 28px 0 28px;}
+	.marri{    font-size: 16px;
+    padding-left: 28px;font-weight: bold;}
+	.news{background:#cdecfe; padding:0px;margin-top:
+	20px;}
+	.apr{height:50px;width:75px;background-color: #ffffff;margin-bottom: 5px;}
+.apr h5{font-size: 13px;color: #3d5a6b;}
+.apr b{margin-left: 7px;}
+.res{margin-bottom: 7px;}
+.stories{background:#f6d9d9;padding:0px;margin-top:20px;}
+.lady{    padding: 27px 0 34px 0}
+.photobottom{    font-size: 17px;
+    border-bottom: 1px solid ;}
+.margin{padding-right:0px;}	
+.stu h4{color: #fff;    margin: 0px 0px 0px 45px;}
+.fac{height: 42px;background-color: #319a6c;border-radius: 50px;margin-bottom: 10px;}
+.fac h4{color: #fff;margin: 0px 0px 0px 45px;}
+.par{height: 42px;background-color: #9f6db6;border-radius: 50px;margin-bottom: 10px;}
+.par h4{color: #fff;margin: 0px 0px 0px 45px;}
+.stu{height: 42px;background-color: #3f7fbe;border-radius: 50px;margin-bottom: 10px;}
+.right{padding-right: 0px;}
+.new{    padding: 0px 0 0px 22px;
+    position: relative;
+    top: 15px;}
+   .offer{background: #e3ede5;padding:0px;    margin-bottom: 20px;} 
+   .cse{display: block;padding: 5px}
+   	.eight{padding:0px;margin-top:20px;}
+   	.anti{padding: 0px;background: #e4ecf5;margin-top: 20px;}
+   	.lasttable{font-size: 12px;
+    font-weight: bold;padding: 7px 0 0 15px;}
+    .notification{    color: #4a86be;
+    border-bottom: 1px solid;
+    /* width: 100%; */
+    padding: 0 0 0 28px;}
+    .nine{padding: 0px;}
+    .noti{float: right;}
+    .lab {background: #e3e9ef;height:150px;margin-top:20px;}
+    .kumar{    padding-top: 58px;}
+    .footer{height: 86px;background: #3b4651;}
+    .footerp{    font-size: 11px;}
+    .footerspan{    font-size: 10px;}
+    .footerduddu{padding-top:20px;}
+    .footer3{    padding-left: 112px;}

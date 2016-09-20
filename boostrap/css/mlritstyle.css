@@ -1,0 +1,211 @@
+.approved{    font-size: 13px;
+    color: #006633;
+    text-align: center;
+    padding: 25px 0 0 0;}
+    .logo{ padding: 15px 0 0 0;}
+    .mlrs{    text-align: right;
+    padding: 24px 0 0 0;
+    font-size: 21px;
+    color: #000000}
+    .mlrs>span{    display: block;
+    color: red;
+    padding: 0px 91px 0 0px}
+    .container-fluid{background: #296db0;
+        margin: 20px 0 0 0;}
+        .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 20px 13px;color: white;}
+   
+  
+   .red{border-bottom: 1px solid red}
+   .move{border-bottom:none;border-color: none;}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 15px 0px 15px 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #2f5b47;
+    background: #356650;
+        margin-bottom: 0px;
+        color: white;}
+
+
+    .list-group-item:last-child {
+    margin-bottom: 0;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;}
+
+.list-group-item .name{border:none;}
+.col-md-4 {
+    width: 33.33333333%;
+    margin-top: 20px;
+}
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    margin: 0 24px 0 0px;
+color: #98b56d}
+.list-group-item img{     padding: 0 25px 0 30px;}
+.col-md-8 {
+    width: 66.66666667%;
+    margin-top: 20px;}
+     .rares{    COLOR: RED;
+    font-size: 20px;
+    float: left;
+    margin: 10px 7px 0 20px;}
+    .rows{    border: 1px solid #e6e6e6;
+   ;
+    height: 50px;
+    margin: 0 0 0 0px;}
+    .col-md-2 {
+       border-right: 1px solid #e6e6e6;
+    height: 49px}
+    .news{       color: red;
+    font-size: 14px;
+        margin: 12px 0 0px 0}
+        .campus{    margin-top: 10px;
+    font-size: 13px;color: #7294b5}
+    .line{    padding: 8px;color: #d9d9d9}
+    .root{    margin: 20px 0px 0 -14px;padding: 0px;    width: 319px;}
+    .panel-heading {
+    padding: 0;
+    border-bottom: 0px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    padding: 0px;
+    background:#e5fbd9;
+    margin: 0 0px 0 0px;
+    font-size: 16px;
+    text-transform: uppercase;
+color: #383017}
+    .btn-default {
+    /* color: #333; */
+    background-color: #899782; 
+    /* border-color: #ccc; */
+    width: 42px;
+    height: 42px;}
+    .btn {
+    display: inline-block;
+    padding: 0px 4px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 0px solid transparent;
+    border-radius: 0px;
+        margin: 0 20px 0 0px;
+}
+.sam{    color: white;
+    margin: 0 10px 0 0px;}
+    .panel-body {
+    padding: 15px;
+    background: #e5fbd9}
+    .drive{     display: block;
+    margin: 0px 0px 0px 37px;
+    font-size: 13px;
+    padding: 10px 0 0 0;}
+    .total{float: left;
+        margin: 13px 10px 0 0px;
+    color: #4e5357;
+    font-size: 20px;}
+    .totalno{margin-top:0px;}
+    .photo{background: #e5eaf0}
+    .gallery{    padding: 15px;
+    background: #e5eaf0;}
+    .how{    margin: 0 0 0 10px}
+    .href{    margin: 0 0 0 10px;
+    font-size: 16px;}
+    .text{margin: 0px;}
+    .aria{font-size: 20px;
+    color: #97d1ee;
+    margin: 15px 0 0 10px;}
+    .awards{background: #edebe3}
+    .award{background: #edebe3}
+    .of{    font-size: 15px;
+    margin: 0 0 0 11px;}
+    .rose{    width: 50%;
+        margin: 20px -41px 0 -40px;}
+    .india{    margin: 0px 0 28px 15px;
+    font-size: 16px;}
+    .by{    margin: 0 0 0 15px}
+    .to{background:#ffe082 }
+    .the{background: #ffe082}
+    .col-md-12 {
+    width: 100%;
+    margin: 0 0 20px 0;}
+    .new{display: block;
+    margin: 0px 53px 20px 96px;
+    }
+    .tos{background: #cdecfe}
+    .thes{background: #cdecfe}
+    .son{    width: 66px;
+    background: white;}
+    .toss{background: #f6d9d9}
+    .thess{background: #f6d9d9}
+    .ement{    margin: 0 0 0 15px;}
+    .layer{    padding: 0 0 10px 15px;}
+    .care{    margin: 146px 0 0 0;}
+    .losser{    width: 255px;background: #e3ede5}
+    .thesss{ width: 255px;background: #e3ede5}
+    .cse{display: block;padding: 5px}
+    .ugcourse{    width: 114px;float: left;}
+    .lossers{background: #e4ecf5;width: 255px}
+    .thessse{background: #e4ecf5;width: 255px;}
+    .antis{    background: #e4ecf5;
+    color: #296db0;
+    border: none;
+    border-bottom: 1px solid ;padding: 5px}
+    .ragg{color: #296db0;margin: 0px }
+    .navsa{background: #e3e9ef}
+    .mds{    margin: 25px 0 0 15px;}
+    .navsas{background: #3b4651}
+    .fgh{    margin: 10px 0 0 0}
+    .copy{    display: block;
+   
+    color: white}
+    .index{    padding: 5px;}
+    .copys{margin: 20px 0 0 0}
+    .cop{margin: 10px 0 0 0}
+    .center{    border: 1px solid;
+    background: white;
+    margin: 0px 0 0 0;    padding: 0 15px 0 14px}
+    .year{display: block;}
+    .apr{font-size: 12px;}
+    .nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: underline;
+    background-color: 0px;
+    color: yellow;}
+    .nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background: none;
+    text-decoration: underline;
+}
+.sweet{    float: left;
+    color: white;
+    margin: 0 25px 0 30px;
+    font-size: 20px}
+    .back{}
